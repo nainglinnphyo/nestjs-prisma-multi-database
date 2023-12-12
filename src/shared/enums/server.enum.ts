@@ -1,0 +1,3 @@
+export enum SERVER_NAME {
+  AUTH_SERVICE = 'AUTH_SERVICE',
+}
